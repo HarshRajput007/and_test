@@ -3,13 +3,6 @@
     "android": [
 
     {
-    "name":"How to use a MicroSD as internal storage on your smartphone!",
-    "date":"Today",
-    "description":"Do you want to use your MicroSD card as a real memory extension and install apps on it? Then you need to format it as internal memory. Easy enough on most phones, but unfortunately, some manufacturers such as Sony, LG or Samsung, can't do this by default. However, if your smartphone's OS is Android Marshmallow, a command-line prompt will help. Avoid grief from system updates by following the new tips at the beginning of this article.",
-    "image":"https://fscl01.fonpit.de/userfiles/1799474/image/smartphones/Darth_Vader_micro_SD_ANDROIDPIT-w782.jpg"
-    },
-
-    {
     "name":"Your phone could be fooled by fake fingerprints!",
     "date":"Today",
     "description":"Artificial Intelligence researchers have used a neural network to create fake fingerprints - a hacker's dream tool. The research, published at the end of October, explains that the generated prints can replicate more than one in five real fingerprints in a biometric identification system.\n\nFive researchers, led by Philip Bontrager of the New York University School of Engineering, developed what they called 'DeepMasterPrints'. The Guardian reported that the research was presented at a biometrics conference in Los Angeles.\n\nResearch suggests that this technique could lead to the creation of fake fingerprints that could be used for illegal purposes. In fact, if a tool inspired by DeepMasterPrints were to end up in the wrong hands, it could create several fingerprints corresponding to any account of an unsuspecting user. In practice, if a hacker were to penetrate an account system accessible via fingerprint, they would have a good chance to take full control of them.\n\nThe key to the research is the fact that many biometric scanners only read part of the fingerprint and some portions of the fingertips have many things in common with many others. So, when researchers created new prints by inserting a series of real fingerprints into the database, AI used some parts of them to create new ones that have a lot in common.\n\nThe report also explains that at the moment it is unlikely that anyone could use such a technique to penetrate another user's smartphone. A similar configuration would probably not get the same success rate on a smartphone unless it is optimized for that purpose, which would require a lot of decoding work, said Bontrager.\n\nFinally, Bontrager said that the purpose of this research is to inspire companies to step up their security efforts. 'Nowadays it is impossible to verify whether a biometric data comes from a real person,' added the scientist. ",
