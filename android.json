@@ -3,10 +3,9 @@
     "android": [
 
     {
-    "name":"This is Android Section",
-    "description":""
+    "name":"DirectChat - enables chat bubbles for all your chat apps",
+    "description":"https://play.google.com/store/apps/details?id=net.uniquegem.directchat"
     }
     
-
     ]
     }
