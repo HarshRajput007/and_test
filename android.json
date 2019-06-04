@@ -6,6 +6,13 @@
       "description": "",
       "image": "https://fossbytes.com/wp-content/uploads/2019/03/programmer-coding-640x360.jpg",
       "date": "Today"
+    },
+
+    {
+      "name": "More article can be added any time from a remote server!!",
+      "description": "Here we show the Description of the Article. This same value is passed to the description activity!",
+      "image": "https://fossbytes.com/wp-content/uploads/2019/03/programmer-coding-640x360.jpg",
+      "date": "Today"
     }
   ]
 }
