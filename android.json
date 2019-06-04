@@ -1,13 +1,11 @@
 {
-    "error":false,
-    "android": [
-
+  "error": false,
+  "android": [
     {
-    "name":"Android Section is Here!!",
-    "description":"",
-    "image":"",
-    "url":""
+      "name": "Android Section is Here!!",
+      "description": "",
+      "image": "https://fossbytes.com/wp-content/uploads/2019/03/programmer-coding-640x360.jpg",
+      "date": "Today"
     }
-    
-    ]
-    }
+  ]
+}
